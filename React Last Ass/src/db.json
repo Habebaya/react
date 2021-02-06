@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "name": "Habeba Yasser",
+      "age": "23",
+      "phone": "01125878231",
+      "id": 1
+    },
+    {
+      "name": "Mohamed",
+      "age": "25",
+      "phone": "01025878235",
+      "id": 2
+    },
+    {
+      "name": "Mohameeed",
+      "age": "28",
+      "phone": "01256478945",
+      "id": 3
+    },
+    {
+      "name": "Youseef",
+      "age": "21",
+      "phone": "011858585857",
+      "id": 4
+    },
+    {
+      "name": "Hossam",
+      "age": "20",
+      "phone": "78945612345",
+      "id": 5
+    },
+   
+   
+   
+   
+  ]
+}
